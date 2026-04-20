@@ -1,4 +1,4 @@
-import "./restaurant.css"
+import "./Restaurant.css"
 import burger from '../../assets/burger.png'
 import lama from '../../assets/lagmon.png'
 import salat from '../../assets/miniSalat.png'
