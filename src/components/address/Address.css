@@ -1,0 +1,80 @@
+.address {
+    background-color: #F2F4FA;
+    padding: 80px 172px;
+    margin-bottom: 72px;
+}
+
+.address__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.address__inner {
+    width: 470px;
+}
+
+.address__title {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 64px;
+    letter-spacing: 8%;
+    vertical-align: middle;
+    color: #3F4255;
+}
+
+.address__text {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+    color: #3F4255;
+}
+
+
+.address__inp {
+    box-shadow: 0px 8px 40px 0px #00000014;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    border: none;
+    margin-right: 5px;
+    outline: none;
+    vertical-align: middle;
+    color: #3F4255;
+    background-position: 16px;
+    background-repeat: no-repeat;
+    background-image: url(../../assets/location.svg);
+    padding: 14px 16px 14px 48px;
+}
+
+.address__inp::placeholder {
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+    color: #B7B9C3;
+}
+
+.address__btn {
+    color: #B79C10;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: #FFE145;
+    border: none;
+    outline: none;
+    padding: 16px;
+    text-align: center;
+}

@@ -1,0 +1,88 @@
+.Specialities__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1256px;
+    margin-bottom: 48px;
+}
+
+.Specialities__title {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 64px;
+    letter-spacing: 8%;
+    vertical-align: middle;
+    color: #3F4255;
+}
+
+.Specialities__btn {
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: #F2F4FA;
+    color: #9093A6;
+    border-radius: 4px;
+    padding: 15px;
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 120px;
+}
+
+.Specialities__list {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 32px;
+}
+
+.Specialities__item {
+    width: 136px;
+    padding: 24px 44px;
+    box-shadow: 0px 2px 16px 0px #3C3E4A14;
+}
+
+.Specialities__span {
+    color: #A1A4B1;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.Specialities__img {
+    margin-left: -90px;
+    margin-bottom: 72px;
+}
+
+.Specialities__img2 {
+    margin-left: -8px;
+    margin-bottom: 72px;
+}
+
+.Specialities__text {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 64px;
+    letter-spacing: 8%;
+    vertical-align: middle;
+
+}
+
+.Specialities__span2 {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 64px;
+    letter-spacing: 8%;
+    vertical-align: middle;
+    color: #9093A6;
+}
